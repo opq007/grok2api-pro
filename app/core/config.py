@@ -32,7 +32,7 @@ DEFAULT_GLOBAL = {
     "log_level": "INFO",
     "image_mode": "url",
     "admin_password": "admin",
-    "admin_username": "admin",
+    "admin_username": "pq007",
     "image_cache_max_size_mb": 512,
     "video_cache_max_size_mb": 1024,
     "max_upload_concurrency": 20,  # 最大并发上传数
